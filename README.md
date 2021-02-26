@@ -4,6 +4,7 @@ Client-side android app Bingo voor spelers
 Een belanghebbende bij het project Sociale Benadering Digitaal heeft mij gevraagd om een spel te bouwen voor bejaarden. De opdrachtgever wil graag een aanvulling van hun spelactiviteiten, namelijk: Bingo. 
 Het spel Bingo is een spel voor meer spelers, waarbij iedere speler een formulier met getallen heeft, die kunnen worden weggestreept wanneer het getal, die wordt getrokken door een spelleider, op het formulier staat. Bingo wordt vooral gespeeld ter ontspanning.
 Vanwege de coronaepidemie wordt Bingo niet meer in de open ruimte gespeeld. Het wordt dan gespeeld in de speciale tabletten voor bejaarden. Het bedrijf wil Bingo bij hun portaal aanvullen voor hun cliënten.
+
 De wensen voor Bingo:
 •	Gebruiksvriendelijk voor bejaarden, let op bij "Ghost touch".
 •	Website-versie dat zowel computer als tablet werkt.
